@@ -1,0 +1,181 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Quelle est la capitale de la France ?",
+            "options": ["Londres", "Berlin", "Paris", "Madrid"],
+            "correct_answer": 2,
+            "difficulty": "easy",
+            "category": "culture générale",
+            "explanation": "Paris est la capitale de la France depuis le 10ème siècle."
+        },
+        {
+            "id": 2,
+            "question": "Quelle est la langue la plus parlée au monde ?",
+            "options": ["Anglais", "Chinois mandarin", "Espagnol", "Hindi"],
+            "correct_answer": 0,
+            "difficulty": "easy",
+            "category": "culture générale",
+            "explanation": "La langue la plus parle au monde est l'anglais."
+        },
+        {
+            "id": 3,
+            "question": "quelle est la capitale du BURKINA FASO ?",
+            "options": ["Ouagadougou","Abidjan","Bamako","Niamey"],
+            "correct_answer": 0,
+            "difficulty": "easy",
+            "category": "culture générale",
+            "explanation": "La capitale du Burkina Faso est Ouagadougou."
+        },
+        {
+            "id":4 ,
+            "question": "quelle est la capitale economique du BURKINA FASO ",
+            "options": ["Ouagadougou","Bobo Dioulasso","Koudougou","Banfora"],
+            "correct_answer":1 ,
+            "difficulty": "easy",
+            "category": "culture générale",
+            "explanation": "La capitale economique du Burkina Faso est Bobo Dioulasso"
+        },  
+        {
+            "id":5 ,
+            "question": "Qui est l'actuelle president du Burkina Faso",
+            "options": ["Assimi Goita","Le Generale Tchani","Capitaine Ibrahim Traoré","Alassane Ouattara"],
+            "correct_answer": 2,
+            "difficulty": "easy",
+            "category": "culture générale",
+            "explanation": "l'actuelle president du Burkina Faso est Le Capitaine Ibrahime Traoré "
+        },  
+        {
+            "id":6 ,
+            "question": "Quel est le résultat de 7 + 5 ?",
+            "options": ["10", "11", "12", "13"],
+            "correct_answer": 2,
+            "difficulty": "easy",
+            "category": "math",
+            "explanation": "7 + 5 = 12"
+        },
+        {
+            "id":7 ,
+            "question": "Quelle est la racine carre de 25",
+            "options": ["5", "10", "20", "15"],
+            "correct_answer": 0,
+            "difficulty": "easy",
+            "category": "math",
+            "explanation": "Racine Carre de 25 est 5."
+        },
+        {
+            "id":8 ,
+            "question": "Combien font 2*20  ",
+            "options": ["10", "40", "50", "25"],
+            "correct_answer": 1,
+            "difficulty": "easy",
+            "category": "math",
+            "explanation": "2 * 20 = 40"
+        },
+        {
+            "id":9 ,
+            "question": "Quel est le carré de 6  ?",
+            "options": ["36", "12", "30", "42"],
+            "correct_answer": 0,
+            "difficulty": "easy",
+            "category": "math",
+            "explanation": "le carre de 6 est 36."
+        },
+        {
+            "id":10 ,
+            "question": "Combien font 2² ?",
+            "options": ["2", "4", "6", "8"],
+            "correct_answer": 1,
+            "difficulty": "easy",
+            "category": "math",
+            "explanation": "le carre 2 est 4"
+        },
+        {
+            "id":11 ,
+            "question": "Qui a peint la Joconde ?",
+            "options": ["Pablo Picasso", "Vincent van Gogh", "Léonard de Vinci", "Michel-Ange"],
+            "correct_answer": 2,
+            "difficulty": "easy",
+            "category": "histoire",
+            "explanation": "Léonard de Vinci a peint la Joconde entre 1503 et 1506."
+        },
+        {
+            "id":12 ,
+            "question": "Qui a été le premier president du BURKINA FASO ?",
+            "options": ["Thomas Sankara ", "Maurice Yameogo", "Sangoule Lamizana", "Blaise Compaoré"],
+            "correct_answer": 1,
+            "difficulty": "easy",
+            "category": "histoire",
+            "explanation": "Le premier president du BURKINA FASO est Maurice Yameaogo"
+        },
+        {
+            "id":13 ,
+            "question": "Qui a decouvert l'amerique ?",
+            "options": ["Christophe Colomb", "Vasco de Gama", "Marco Polo", "Amerigo Vespucci"],
+            "correct_answer": 0,
+            "difficulty": "easy",
+            "category": "histoire",
+            "explanation": "Christophe Colomb a decouvert l'amerique."
+        },
+        {
+            "id":14 ,
+            "question": "Qui était Cléopâtre ?",
+            "options": ["Une reine grecque", "Une reine égyptienne", "Une guerrière", "Une philosophe"],
+            "correct_answer": 1,
+            "difficulty": "easy",
+            "category": "histoire",
+            "explanation": "Cléopâtre etait Une reine égypyienne. "
+        },
+        {
+            "id":15 ,
+            "question": "Qui a écrit 'Je pense donc je suis' ?",
+            "options": ["Voltaire", "Descartes", "Rousseau", "Pascal"],
+            "correct_answer": 1,
+            "difficulty": "easy",
+            "category": "histoire",
+            "explanation": "Descartes est l'auteur du phrase 'je pense donc je suis' "
+        },
+        {
+            "id":16 ,
+            "question": "Quel est l'élément chimique avec le symbole 'O' ?",
+            "options": ["Or", "Osmium", "Oxygène", "Oganesson"],
+            "correct_answer": 2,
+            "difficulty": "easy",
+            "category": "science",
+            "explanation": "Le symbole 'O' représente l'oxygène dans le tableau périodique."
+        },
+        {
+            "id":17 ,
+            "question": "Quel est l'état de l'eau à 100°C ?",
+            "options": ["Solide", "Liquide", "Gazeux", "Plasma"],
+            "correct_answer": 2,
+            "difficulty": "easy",
+            "category": "science",
+            "explanation": "A 100°C l'eau est a l'état Gazeux. "
+        }, {
+            "id":18 ,
+            "question": "Quel organe pompe le sang ?",
+            "options": ["Poumon", "Rein", "Cœur", "Foie"],
+            "correct_answer": 2,
+            "difficulty": "easy",
+            "category": "science",
+            "explanation": "L'organe qui pompe le sang dans l'organisme humain est le Coeur."
+        }, {
+            "id":19 ,
+            "question": "Quelle planète est surnommée la planète rouge ?",
+            "options": ["Mars", "Jupiter", "Saturne", "Vénus"],
+            "correct_answer": 0,
+            "difficulty": "easy",
+            "category": "science",
+            "explanation": "La planète Mars est surnommée la planète rouge."
+        }, {
+            "id":20 ,
+            "question": "Quel est l'organe de la vue ?",
+            "options": ["Oreille", "Peau", "Œil", "Langue"],
+            "correct_answer": 2,
+            "difficulty": "easy",
+            "category": "science",
+            "explanation": "L'organe de la vue est l'oeil ."
+        }
+    ]
+}

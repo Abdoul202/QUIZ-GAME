@@ -1,0 +1,184 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
+            "options": ["Traité de Versailles", "Traité de Tordesillas", "Traité de Westphalie", "Traité de Rome"],
+            "correct_answer": 0,
+            "difficulty": "hard",
+            "category": "histoire",
+            "explanation": "Le Traité de Versailles, signé en 1919, a officiellement mis fin à la Première Guerre mondiale."
+        },
+        {
+            "id": 2,
+            "question": "Qui était le dernier empereur de Rome ?",
+            "options": ["Néron", "Augustus", "Romulus Augustule", "Constantin"],
+            "correct_answer": 2,
+            "difficulty": "hard",
+            "category": "histoire",
+            "explanation": "Le dernièr empereur de Rome est Romulus Augustule."
+        },
+        {
+            "id": 3,
+            "question": "Qui a rédigé le code civil ?",
+            "options": ["Napoléon Bonaparte", "Louis XVIII", "Robespierre", "Mirabeau"],
+            "correct_answer": 0,
+            "difficulty": "hard",
+            "category": "histoire",
+            "explanation": "Napoléon Bonaparte a redige le code civil."
+        },
+        {
+            "id": 4,
+            "question": "Quel empire historique était centré autour du Burkina Faso ?",
+            "options": ["Empire du Mali", "Empire Songhaï", "Empire Mossi", "Empire Ghana"],
+            "correct_answer": 2,
+            "difficulty": "hard",
+            "category": "histoire",
+            "explanation": "L'empire qui était centre autre fois autour du Burkina Faso est l'empire Mossi."
+        },
+        {
+            "id": 5,
+            "question": "Comment s'appelait l'armée burkinabè après l'indépendance ?",
+            "options": ["FAP", "ANV", "CNR", "RSP"],
+            "correct_answer": 1,
+            "difficulty": "hard",
+            "category": "histoire",
+            "explanation": "L'Armée Nationale Voltaique (ANV) a été créée le 3 août 1960 il a été crée après l'independance."
+        },
+        {
+            "id": 6,
+            "question": "Si un champ de mil produit 3,5 tonnes par hectare, combien produit-il sur 12 hectares ?",
+            "options": ["42", "40", "45", "38"],
+            "correct_answer": 0,
+            "difficulty": "hard",
+            "category": "math",
+            "explanation": "Sur 12hectares on aurait 42 tonnes de mil"
+        },
+        {
+            "id": 7,
+            "question": "Si une classe a 13 filles et 17 garçons, quel est le pourcentage de filles ?",
+            "options": ["43%", "44%", "45%", "46%"],
+            "correct_answer": 0,
+            "difficulty": "hard",
+            "category": "math",
+            "explanation": "Les filles auront une pourcentage de 43% ."
+        },
+        {
+            "id": 8,
+            "question": "Une récolte augmente de 20% par rapport à l'an dernier (1500kg). Quel est le poids cette année ?",
+            "options": ["1800", "1750", "1700", "1650"],
+            "correct_answer": 0,
+            "difficulty": "hard",
+            "category": "math",
+            "explanation": "le poids de cette année est 1800"
+        },
+        {
+            "id": 9,
+            "question": "Quel est le périmètre d'un cercle de rayon 7 ? (π≈3.14)",
+            "options": ["43.96", "44", "46", "42.98"],
+            "correct_answer": 0,
+            "difficulty": "hard",
+            "category": "math",
+            "explanation": "Le perimetre d'un cercle de rayon 7 est 43.96"
+        },
+        {
+            "id": 10,
+            "question": "Quel est le logarithme de 100 en base 10 ?",
+            "options": ["1", "10", "2", "100"],
+            "correct_answer": 2,
+            "difficulty": "hard",
+            "category": "math",
+            "explanation": "Le logarithme de 100 en base 10 est 2"
+        },
+        {
+            "id": 11,
+            "question": "Quel philosophe a écrit 'Ainsi parlait Zarathoustra' ?",
+            "options": ["Friedrich Nietzsche", "Jean-Paul Sartre", "Immanuel Kant", "Karl Marx"],
+            "correct_answer": 0,
+            "difficulty": "hard",
+            "category": "culture générale",
+            "explanation": "'Ainsi parlait Zarathoustra' est une œuvre majeure de Friedrich Nietzsche."
+        },
+        {
+            "id": 12,
+            "question": "Quelle ville est surnommée la perle du Sahel ?",
+            "options": ["Timbuktu", "Gao", "Ouagadougou", "Ouahigouya"],
+            "correct_answer": 3,
+            "difficulty": "hard",
+            "category": "culture générale",
+            "explanation": "La ville de Ouahigouya est surnommée la perle du sahel."
+        },
+        {
+            "id": 13,
+            "question": "Dans quel pays se trouve le mont Kilimandjaro ?",
+            "options": ["Kenya", "Rwanda", "Tanzanie", "Ouganda"],
+            "correct_answer": 2,
+            "difficulty": "hard",
+            "category": "culture générale",
+            "explanation": "Le mont Kilimandjaro se trouve en Tanzani."
+        },
+        {
+            "id": 14,
+            "question": "Quel est le plus grand archipel du monde ?",
+            "options": ["Philippines", "Indonésie", "Japon", "Malaisie"],
+            "correct_answer": 1,
+            "difficulty": "hard",
+            "category": "culture générale",
+            "explanation": "L'indonésie est le plus grand archipel du monde."
+        },
+        {
+            "id": 15,
+            "question": "Quel pays est appelé le pays du matin calme ?",
+            "options": ["Vietnam", "Corée du Sud", "Japon", "Chine"],
+            "correct_answer": 1,
+            "difficulty": "hard",
+            "category": "culture générale",
+            "explanation": "La corée du sud est appelé le matin calme."
+        },
+        {
+            "id": 16,
+            "question": "Quelle particule subatomique est responsable de la conductivité électrique ?",
+            "options": ["Proton", "Neutron", "Électron", "Positron"],
+            "correct_answer": 2,
+            "difficulty": "hard",
+            "category": "science",
+            "explanation": "Les électrons, particulièrement les électrons libres, sont responsables de la conductivité électrique dans les matériaux."
+        },
+        {
+            "id": 17,
+            "question": "Quelle est la couche la plus externe de la Terre ?",
+            "options": ["Noyau", "Croûte", "Manteau", "Lithosphère"],
+            "correct_answer": 1,
+            "difficulty": "hard",
+            "category": "science",
+            "explanation": "La croute est la couche la plus externe de la terre."
+        },
+        {
+            "id": 18,
+            "question": "Quel est l'acide contenu dans l'estomac ?",
+            "options": ["Acide sulfurique", "Acide nitrique", "Acide chlorhydrique", "Acide citrique"],
+            "correct_answer": 2,
+            "difficulty": "hard",
+            "category": "science",
+            "explanation": "L'Acide chlorhydrique est l'acide contenu dans l'estomac."
+        },
+        {
+            "id": 19,
+            "question": "Quel est le point d'ébullition de l'azote liquide ?",
+            "options": ["-196°C", "-100°C", "-78°C", "-273°C"],
+            "correct_answer": 0,
+            "difficulty": "hard",
+            "category": "science",
+            "explanation": "Le point d'ébullition de l'azote liquide est de -196°C."
+        },
+        {
+            "id": 20,
+            "question": "Quelle glande régule la croissance ?",
+            "options": ["Thyroïde", "Pancréas", "Hypophyse", "Surrénale"],
+            "correct_answer": 2,
+            "difficulty": "hard",
+            "category": "science",
+            "explanation": "Le glande régulateur de la croissance est l'hypophyse."
+        }
+    ]
+}

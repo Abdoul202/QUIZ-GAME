@@ -1,0 +1,185 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Quelle année a eu lieu la Révolution française ?",
+            "options": ["1776", "1789", "1815", "1688"],
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "culture générale",
+            "explanation": "La Révolution française a commencé en 1789 avec la prise de la Bastille."
+        },
+        {
+            "id": 2,
+            "question": "Quel est le plus long fleuve du monde ?", 
+            "options": ["Nil", "Amazone", "Yangtsé", "Mississippi"], 
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "culture générale",
+            "explanation": "Le plus long fleuve du monde est l'Amazone."
+        },
+        {
+            "id": 3,
+            "question": "Dans quel pays se trouve la Tour de Pise ?", 
+            "options": ["Espagne", "France", "Italie", "Grèce"],
+            "correct_answer": 2,
+            "difficulty": "medium",
+            "category": "culture générale",
+            "explanation": "La tour de pise se trouve en Italie"
+        },
+        {
+            "id": 4,
+            "question": "Quel écrivain a créé Sherlock Holmes ?", 
+            "options": ["Agatha Christie", "Arthur Conan Doyle", "Jules Verne", "Victor Hugo"], 
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "culture générale",
+            "explanation": "Arthur conan doyle a créé Sherlock Holmes "
+        },
+        {
+            "id":5,
+            "question": "Quel est le plus grand désert du monde ?", 
+            "options": ["Sahara", "Gobi", "Antarctique", "Kalahari"],
+            "correct_answer": 2,
+            "difficulty": "medium",
+            "category": "culture générale",
+            "explanation": " Le plus grand désert du monde est l'Antarctique"
+        },
+        {
+            "id": 6,
+            "question": "Quel est le résultat de 15 * 8 ?",
+            "options": ["100", "120", "140", "160"],
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "math",
+            "explanation": "15 * 8 = 120"
+        },
+        {
+            "id": 7,
+            "question": "Combien font 12 x 12 ?", 
+            "options": ["144", "132", "124", "156"],
+            "correct_answer": 0,
+            "difficulty": "medium",
+            "category": "math",
+            "explanation": "12 x 12 = 144"
+        },
+        {
+            "id": 8,
+            "question": "Quelle est la racine carrée de 81 ?", 
+            "options": ["9", "8", "7", "6"],
+            "correct_answer": 0,
+            "difficulty": "medium",
+            "category": "math",
+            "explanation": "La racine carrée de 81=9"
+        },
+        {
+            "id": 9,
+            "question": "Quel est le résultat de 120 ÷ 6 ?", 
+            "options": ["15", "20", "18", "24"], 
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "math",
+            "explanation": "le résultat de 120 ÷ 6 = 20"
+        },
+        {
+            "id": 10,
+            "question":"Combien font 3³ ?",
+            "options":  ["9", "27", "18", "24"],
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "math",
+            "explanation": " 3³ = 27"
+        },
+        {
+            "id": 11,
+            "question": "Qui a écrit la Déclaration des Droits de l'Homme ?", 
+            "options": ["Voltaire", "Rousseau", "Lafayette", "Robespierre"],
+            "correct_answer": 2,
+            "difficulty": "medium",
+            "category": "histoire",
+            "explanation": "Lafayette a écrit la Déclaration des Droits de l'Homme ?"
+        },
+        {
+            "id": 12,
+            "question": "En quelle année l'homme a-t-il marché sur la Lune ?", 
+            "options": ["1969", "1970", "1965", "1972"],
+            "correct_answer": 0,
+            "difficulty": "medium",
+            "category": "histoire",
+            "explanation": "l'homme a arché sur la Lune en 1969 "
+        },
+        {
+            "id": 13,
+            "question": "Qui a fondé l'Empire Mongol ?",
+            "options": ["Gengis Khan", "Attila", "Tamerlan", "Kubilaï Khan"],
+            "correct_answer": 0,
+            "difficulty": "medium",
+            "category": "histoire",
+            "explanation": "L'Empire Mongol est fondé par Gengis Khan"
+        },
+        {
+            "id": 14,
+            "question": "Qui a été président de la France en 1968 ?", 
+            "options": ["De Gaulle", "Pompidou", "Mitterrand", "Giscard d’Estaing"],
+            "correct_answer": 0,
+            "difficulty": "medium",
+            "category":"histoire",
+            "explanation": " De Gaulle a été le président de la France en 1968"
+        },
+        {
+            "id": 15,
+            "question": "Qui a fondé l'Empire Mongol ?", 
+            "options": ["Gengis Khan", "Attila", "Tamerlan", "Kubilaï Khan"],
+            "correct_answer": 0,
+            "difficulty": "medium",
+            "category":"Histoire",
+            "explanation": " Gengis Khan a fondé l'empire mongol."
+        },
+        {
+            "id": 16,
+            "question": "Combien de chromosomes possède l'être humain ?",
+            "options":  ["46", "23", "48", "22"],
+            "correct_answer": 0,
+            "difficulty": "medium",
+            "category": "science",
+            "explanation": "L'être humain possède 46 chromosomes."
+        },
+        {
+            "id": 17,
+            "question": "Quel est le plus petit os du corps humain ?", 
+            "options": ["Étrier", "Tibia", "Fibula", "Scapula"],
+            "correct_answer": 0,
+            "difficulty": "medium",
+            "category": "science",
+            "explanation": "Lle plus petit os du corps humain atome d'oxygène, d'où la formule H2O."
+        },
+        {
+            "id": 18,
+            "question": "Quelle est la formule chimique de l'eau ?",
+            "options": ["HO", "H2O", "H2O2", "HO2"],
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "science",
+            "explanation": "L'eau est composée de deux atomes d'hydrogène et un atome d'oxygène, d'où la formule H2O."
+        },
+        {
+            "id": 19,
+            "question": "Combien de paires de côtes possède un humain ?", 
+            "options": ["10", "12", "11", "13"],
+            "correct_answer": 1,
+            "difficulty": "medium",
+            "category": "science",
+            "explanation": "Un humain possède 12 paires de côtes ."
+        },
+        {
+            "id": 20,
+            "question": " Quel organe produit l'insuline ?", 
+            "options": ["Foie", "Rate", "Pancréas", "Rein"],
+            "correct_answer": 2,
+            "difficulty": "medium",
+            "category": "science",
+            "explanation": "Le pancréas est l'organe producteur de l'insuline ."
+        }
+        
+    ]
+}
